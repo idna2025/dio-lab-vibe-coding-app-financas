@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais da Idna Reis com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -73,13 +73,157 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+- Seu **prompt final** (PRD);
+- PRD refinado no Copilot Web
+- # PRD – Aplicativo de Organização de Finanças Pessoais
+
+## Contexto
+O aplicativo será um assistente financeiro conversacional, que permite ao usuário organizar suas finanças por meio de diálogos em linguagem natural. O objetivo é simplificar o controle de gastos e metas sem depender de formulários complexos ou planilhas.
+
+## Problema
+Muitos usuários abandonam aplicativos de finanças porque exigem:
+- Entrada manual extensa
+- Pouca personalização
+- Experiência pouco intuitiva
+
+O desafio é criar uma solução que torne o processo natural, simples e motivador, usando conversas e recomendações automáticas.
+
+## Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças sem complicação
+- Usuários iniciantes em controle financeiro
+- Pessoas que preferem interações mais humanas e menos técnicas
+- Todos os perfis de usuários, garantindo acessibilidade e inclusão por meio de Design Universal
+
+## Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural
+2. Classificação automática das transações (alimentação, transporte, lazer etc.)
+3. Definição e acompanhamento de metas financeiras
+4. Agente Financeiro que fornece dicas de economia personalizadas
+5. Relatórios simples e visuais, adaptados ao perfil do usuário
+6. Design Universal: interface acessível, clara e inclusiva, para que pessoas com diferentes necessidades (visuais, motoras, cognitivas) possam usar o app com boa experiência
+
+## Entregável da IA
+- Plano de MVP com:
+  - Principais telas (chat, metas, relatórios)
+  - Recursos necessários (NLP, categorização, motor de recomendações)
+  - Esboço de validação inicial (testes com usuários iniciantes e diversos perfis)
+- Linguagem acessível e educativa, em português
+- Garantia de que o design siga princípios de Design Universal
+
+Interações com o Lovable
+ola boa tarde cria um App de Finanças Pessoais baseado no seguinte PRD # PRD – Aplicativo de Organização de Finanças Pessoais
+
+Resultado final no Lovable site: https://lovable.dev/projects/c8b2240c-868f-4de5-876b-46462f93e009
+
+- Prints ou pequenos vídeos das interações com a IA;
+  
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+# Funcionalidades do Aplicativo de Organização de Finanças Pessoais
+
+## Registro de Gastos
+- Inserção de despesas por meio de conversas em linguagem natural.
+- Elimina a necessidade de formulários complexos ou planilhas.
+
+## Classificação Automática
+- O sistema identifica e organiza os gastos em categorias como:
+  - Alimentação
+  - Transporte
+  - Lazer
+  - Outros
+
+## Metas Financeiras
+- Definição de objetivos financeiros (ex.: guardar um valor mensal).
+- Acompanhamento do progresso em relação às metas estabelecidas.
+
+## Agente Financeiro
+- Assistente virtual que fornece dicas de economia personalizadas.
+- Recomendações adaptadas ao perfil e hábitos do usuário.
+
+## Relatórios Simples e Visuais
+- Visualização clara e personalizada da situação financeira.
+- Relatórios adaptados ao nível de conhecimento do usuário.
+
+## Design Universal
+- Interface inclusiva e acessível para diferentes perfis de usuários.
+- Experiência otimizada para pessoas com necessidades visuais, motoras ou cognitivas.
+- Layout responsivo para diversos dispositivos (celular, tablet, desktop).
+
+- 
+   **Reflexão sobre o processo**:
+ 
+  ** O que funcionou bem?
+  
+  Pontos Fortes do App
+Experiência Conversacional
+O registro de gastos via chat em linguagem natural torna o processo simples e acessível.
+
+Elimina a barreira de formulários complexos, aumentando a adesão dos usuários.
+
+Automação Inteligente
+Classificação automática das transações reduz esforço manual.
+
+Ajuda o usuário a visualizar seus gastos de forma organizada sem precisar categorizar tudo sozinho.
+
+Metas Claras e Motivadoras
+Definição de objetivos financeiros dá propósito ao uso do app.
+
+Acompanhamento de progresso mantém o usuário engajado e motivado.
+
+Assistente Financeiro
+Dicas personalizadas de economia oferecem valor contínuo.
+
+Cria uma sensação de suporte e acompanhamento, como se fosse um consultor pessoal.
+
+Relatórios Simples e Visuais
+Informações apresentadas de forma clara e adaptada ao perfil do usuário.
+
+Facilita a compreensão mesmo para iniciantes em finanças.
+
+Design Universal
+Interface inclusiva e acessível para diferentes perfis de usuários.
+
+Experiência consistente em diversos dispositivos e para pessoas com necessidades variadas.
+
+Esses pontos mostram que o app conseguiu unir simplicidade, automação e acessibilidade, criando uma solução prática e inclusiva.
+  
+  ** O que não funcionou como o esperado?  
+  
+# Limitações do MVP
+
+## Experiência Conversacional
+- O chat em linguagem natural pode não compreender todas as formas de expressão dos usuários.
+- Ambiguidades ou frases informais podem gerar erros de interpretação.
+
+## Classificação Automática
+- A categorização de gastos nem sempre é precisa, especialmente em transações genéricas ou pouco detalhadas.
+- Pode ser necessário corrigir manualmente algumas classificações.
+
+## Metas Financeiras
+- Alguns usuários podem ter dificuldade em definir metas realistas sem orientação inicial.
+- O acompanhamento pode parecer pouco motivador sem elementos de gamificação ou recompensas.
+
+## Agente Financeiro
+- As dicas podem soar genéricas ou pouco personalizadas se o sistema não tiver dados suficientes.
+- Há risco de perda de engajamento se as recomendações não forem práticas.
+
+## Relatórios Simples
+- Relatórios muito básicos podem não atender usuários que desejam análises mais detalhadas.
+- Falta de opções de exportação ou integração com outros sistemas pode limitar o uso.
+
+## Design Universal
+- Garantir acessibilidade plena exige testes com diferentes perfis de usuários.
+- Recursos como suporte a leitores de tela, contraste adequado e navegação por teclado podem não estar totalmente implementados no MVP.
+
+  
+  ** O que aprendeu sobre conversar com IAs?
+
+  Aprendir que Conversar com IAs é como ter um parceiro de brainstorming: você fornece contexto e ela devolve ideias estruturadas.
+
+O segredo está em ser específico, iterar e validar.
+
+A IA ajuda a organizar, simplificar e expandir suas ideias, mas o resultado final depende da sua visão e ajustes humanos.
+
+  
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
